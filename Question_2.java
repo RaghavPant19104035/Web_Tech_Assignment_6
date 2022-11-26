@@ -1,5 +1,3 @@
-package assignment_6;
-
 import java.util.Scanner;
 
 public class Question_2 {
